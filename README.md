@@ -33,11 +33,11 @@ This Solidity smart contract provides a simple anti-counterfeit system for luxur
 
 - Only the owner can call `addProduct` to register a new product code (e.g., serial number).
 
-```solidity
-addProduct("PRODUCT123");
-bool isAuthentic = verifyProduct("PRODUCT123");
-Contract Address: 0x6Cb613eE180226e53F49256b7CCE05c2227b0C6d
 <img width="1269" height="363" alt="image" src="https://github.com/user-attachments/assets/75b93b49-44fb-48b1-abd7-d4daf83f62bf" />
+
+
+Contract Address: 0x6Cb613eE180226e53F49256b7CCE05c2227b0C6d
+
 
 
 
