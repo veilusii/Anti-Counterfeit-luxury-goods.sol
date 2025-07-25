@@ -37,3 +37,5 @@ This Solidity smart contract provides a simple anti-counterfeit system for luxur
 addProduct("PRODUCT123");
 bool isAuthentic = verifyProduct("PRODUCT123");
 Contract Address: 0x6Cb613eE180226e53F49256b7CCE05c2227b0C6d
+<img width="1257" height="266" alt="image" src="https://github.com/user-attachments/assets/d1b69fef-e557-4e76-b9f1-bfeab21b9751" />
+
